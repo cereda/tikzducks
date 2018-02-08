@@ -19,3 +19,8 @@ The project repository, including a bug tracker, can be found at https://github.
 (Kindly contributed by Ulrike and Gert Fischer, Carla Maggi, Paulo Cereda and Prof. van Duck - many thanks to you all!)
 
 The source code for the video showcase is available in [this repository](https://github.com/cereda/duck-extravaganza).
+
+Other videos include:
+
+- [Happy Groundhog day, 2018](https://vimeo.com/252719006)
+- [Happy Pizza day, 2018](https://vimeo.com/254643482)
